@@ -1,0 +1,5 @@
+\begin{document}
+
+$e^{i\pi}=1$ is often regarded as an \emph{equation}.\todo{Find a citation.} $$e^{i\pi}=1$$ is a bit larger, but $1=1$ is basically a tautology. Anyway, $$$what? An error!$$ $I'm just testing behaviour here.
+
+\end{document}
