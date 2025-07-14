@@ -1,0 +1,1 @@
+Changes LaTeX code from using $ and $$ for equations to using \( and \[ for equations respectively. Do note that this only works if your code is already correctly formatted and doesn't have multiple inline single dollar equations next to each other already. I'm not sure why you would even write like that.
